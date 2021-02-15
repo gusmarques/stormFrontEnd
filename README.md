@@ -37,7 +37,7 @@ Ferramentas utilizadas nesse projeto:
     # Clone o repositório no github
     $ git clone https://github.com/gusmarques/stormFrontEnd.git
     
-    # Entre no diretório "Gerenciador"
+    # Entre no diretório "stormFrontEnd"
     $ cd stormFrontEnd
     
     # Rode um npm para instalar as dependências do projeto
